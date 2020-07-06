@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-git-u1新建了改文件
-=======
-博思软件git-u1修改了文件
-git-u2修改了改文件
->>>>>>> remotes/origin/develop
